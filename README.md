@@ -4,3 +4,5 @@
 Models using frameworks as: TensorFlow 2.0 with Keras and PyTorch <br/>
 Image Recognition <br/>
 Data: Dataset MNIST Digits <br/>
+Example:
+<img src="./images/PyTorch.png">
