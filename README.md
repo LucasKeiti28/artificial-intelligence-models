@@ -12,3 +12,9 @@ Image Recognition <br/>
 Data: CIFAR10 <br/>
 Example: <br/>
 <img src="./images/CIFAR10.png">
+
+### Models using frameworks as: PyTorch <br/>
+NLP Sentimental Analysis <br/>
+Data: Imdb to movie's reviews and Stanford to sentimental labels <br/>
+Example: <br/>
+<img src="./images/imdb.png">
