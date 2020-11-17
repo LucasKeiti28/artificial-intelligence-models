@@ -18,3 +18,11 @@ NLP Sentimental Analysis <br/>
 Data: Imdb to movie's reviews and Stanford to sentimental labels <br/>
 Example: <br/>
 <img src="./images/imdb.png">
+
+### Models using frameworks as: MxNet and GluonCV <br/>
+Object Recognition in Images<br/>
+Model: Model Pre-trained from GluonCV
+Data: COCO Images <br/>
+Example: <br/>
+<img src="./images/balltenis.png">
+<img src="./images/ballfootball.png">
