@@ -26,3 +26,10 @@ Data: COCO Images <br/>
 Example: <br/>
 <img src="./images/balltenis.png">
 <img src="./images/ballfootball.png">
+
+### Models using frameworks as: MxNet and GluonCV <br/>
+Object Recognition in Images Detecting Multiple Objects<br/>
+Model: Model Pre-trained from GluonCV
+Data: COCO Images <br/>
+Example: <br/>
+<img src="./images/family.png">
