@@ -31,5 +31,7 @@ Example: <br/>
 Object Recognition in Images Detecting Multiple Objects<br/>
 Model: Model Pre-trained from GluonCV
 Data: COCO Images <br/>
-Example: <br/>
-<img src="./images/family.png">
+Example with detected objects: <br/>
+<img src="./images/family.png"> <br/>
+Example with instace segmentation: <br/>
+<img src="./images/family1.png">
